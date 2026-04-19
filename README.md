@@ -134,6 +134,15 @@ $ cat about.txt
 </div>
 
 ---
+<div align="center">
+
+### `> run snake.py --eat-commits`
+
+<img src="https://raw.githubusercontent.com/23f2004613/23f2004613/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00cc33,100:001a00&height=100&section=footer" width="100%"/>
