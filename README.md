@@ -134,6 +134,17 @@ $ cat about.txt
 </div>
 
 ---
+
+<div align="center">
+
+### `> render 3d_commits --mode night`
+
+<img src="https://raw.githubusercontent.com/23f2004613/23f2004613/main/profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
+
+
+---
 <div align="center">
 
 ### `> run snake.py --eat-commits`
