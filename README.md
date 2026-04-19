@@ -1,4 +1,4 @@
-<!-- HEADER - Shark style with name baked in -->
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:003300,100:00ff41&height=180&text=NILESH%20SARKAR&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=45&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Dev&descSize=18&descAlignY=68&descColor=00cc33" width="100%"/>
 
 <div align="center">
@@ -14,11 +14,9 @@
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ABOUT - Two column layout with GIF -->
+<!-- ABOUT - two column -->
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -43,7 +41,7 @@ Fun fact  : I taught a model to hear music 🎵
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" style="border-radius:10px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
 </td>
 </tr>
@@ -51,7 +49,7 @@ Fun fact  : I taught a model to hear music 🎵
 
 ---
 
-<!-- TECH STACK - Colorful skill icons -->
+<!-- TECH STACK -->
 <div align="center">
 
 ### `$ ls ~/skills/`
@@ -72,37 +70,12 @@ Fun fact  : I taught a model to hear music 🎵
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- LIVE TERMINAL CARD (Vercel — auto-updates every 30 min) -->
 <div align="center">
 
-### `$ htop --github`
+### `$ run diagnostics --live`
 
-<a href="https://github.com/23f2004613">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=23f2004613&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00cc33&text_color=00cc33&ring_color=00ff41&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/23f2004613">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2004613&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&langs_count=8"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=23f2004613&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00cc33&sideLabels=00cc33&dates=1a7a1a&currStreakNum=00ff41&sideNums=00ff41"/>
-
-</div>
-
----
-
-<!-- PINNED REPOS — replace repo names with your actual ones -->
-<div align="center">
-
-### `$ cat ~/projects/README`
-
-<a href="https://github.com/23f2004613/REPO_NAME_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2004613&repo=REPO_NAME_1&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&icon_color=00cc33"/>
-</a>
-<a href="https://github.com/23f2004613/REPO_NAME_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2004613&repo=REPO_NAME_2&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&icon_color=00cc33"/>
-</a>
+<img src="https://github-terminal-card.vercel.app/?username=23f2004613" width="100%"/>
 
 </div>
 
@@ -145,7 +118,5 @@ Fun fact  : I taught a model to hear music 🎵
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:00ff41,50:003300,100:000000&height=120&section=footer&reversal=true" width="100%"/>
 
 <div align="center">
-
-<sub><kbd>23f2004613@iitm</kbd> — <i>pushing commits since 2024</i> — <kbd>auto-updated by GitHub Actions</kbd></sub>
-
+<sub><kbd>23f2004613@iitm</kbd> — <i>pushing commits since 2024</i> — <kbd>auto-updated by GitHub Actions + Vercel</kbd></sub>
 </div>
